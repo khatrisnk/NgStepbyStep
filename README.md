@@ -1,4 +1,4 @@
-# NgStepbyStep
+# NgStepbyStep - Currently in Development - Will be available soon
 Understand Angular Step by Step
 
 ## Getting Started
@@ -15,6 +15,7 @@ Next step is to generate an angular app. Follow the below lines one by one.
   - Go inside folder command: cd NgStepByStep
   - Generate App command: ng new example-app
   - Go inside folder command: cd example-app
+  - Install dependencies command: npm install @angular-devkit/core --save-dev
   - Install dependencies command: npm install
   - Open server, watch for changes and launch app on browser command: ng serve -o
 

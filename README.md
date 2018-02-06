@@ -27,9 +27,16 @@ Yes: Very good! This is how you will learn.
 
 Ohh! Its contains a lot more stuff than I think off.
 
-Don't worry! Let's have a cup of coffee and concentrate in app folder in the path 'example-app\src\app' and forget about the rest. It contains:-
+Don't worry! Let's have a cup of coffee and concentrate in app folder in the path 'example-app\src\app' and forget about the rest. It contains the app root component or parant component of all the components and app module. Following are the file wise description:-
   - app.component.css: This is component specific css file
   - app.component.html: This is component specific html file
-  - app.component.spec.ts: This is component specific testing file which will contains the logic for testing
+  - app.component.spec.ts: This is component specific testing file which will contains the logic for component testing
   - app.component.ts: This is the component file itself which contains the component specific metadata.
-  - app.module.ts: This is the module file itself which contains the module specific metadata. We will be watching this file after generation of each angular item.
+  - app.module.ts: This is the module file itself which contains the module specific metadata. Promise watch this file after generation of each angular item and observe the changes.
+
+More Details: https://angular.io/guide/quickstart
+
+
+
+
+

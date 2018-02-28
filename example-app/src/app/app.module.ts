@@ -3,13 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import { DisplayDataComponent } from './display-data/display-data.component';
+import { TopBarComponent } from './top-bar/top-bar.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    DisplayDataComponent
+    TopBarComponent
   ],
   imports: [
     BrowserModule

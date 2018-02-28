@@ -1,0 +1,19 @@
+#top-bar {
+  height: 40px;
+  background: #000;
+}
+
+#top-bar .user-section {
+  float: right;
+}
+
+#top-bar .user-section div {
+  color: #fff;
+  padding: 0 10px;
+  display: inline-block;
+  line-height: 40px;
+}
+
+#top-bar .user-section div a {
+  cursor: pointer;
+}
